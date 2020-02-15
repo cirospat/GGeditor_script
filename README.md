@@ -7,3 +7,5 @@ Su Google doc andare su Strumenti e poi su <>Editor di script e creare tanti fil
 Le funzioni di GGeditor sono state illustrate in questa documentazione: https://ggeditor.readthedocs.io/en/latest/.
 
 In lingua italiana le funzioni di GGeditor sono sono descritte in questa documentazione: https://googledocs.readthedocs.io/.
+
+[!][image](https://ggeditor.readthedocs.io/en/latest/_images/index_1.png)
