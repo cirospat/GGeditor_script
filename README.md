@@ -8,4 +8,4 @@ Le funzioni di GGeditor sono state illustrate in questa documentazione: https://
 
 In lingua italiana le funzioni di GGeditor sono sono descritte in questa documentazione: https://googledocs.readthedocs.io/.
 
-[!][image](https://ggeditor.readthedocs.io/en/latest/_images/index_1.png)
+![image](https://ggeditor.readthedocs.io/en/latest/_images/index_1.png)
