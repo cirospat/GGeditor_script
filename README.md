@@ -20,7 +20,7 @@ Su Google doc andare su ``Strumenti`` e poi su ``<>Editor di script`` e creare t
 - sidebar.html
 - 程式碼.gs
 
-(程式碼.gs viene tradoto in codice.gs)
+(程式碼.gs viene tradoto in ``codice.gs``)
 
 
 ## Dove sono iollustrate le funzioni svolte da GGeditor
