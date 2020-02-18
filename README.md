@@ -8,6 +8,20 @@ Questo repository contiene il codice sorgente dello script di **GGeditor**.
 
 Su Google doc andare su ``Strumenti`` e poi su ``<>Editor di script`` e creare tanti file quanti sono quelli dentro la cartella [**GGeditor script**](https://github.com/cirospat/GGeditor_script/tree/master/GGeditor%20script) in questo repository, quindi copiare interamente il codice di ogni file.
 
+## Quali sono i file per fare funzionare lo script GGeditor?
+
+- conversion.html
+- explicitMarkup.html
+- generator.gs
+- github.html
+- properties.gs
+- reSTMetadata.gs
+- settings.html
+- sidebar.html
+- 程式碼.gs
+
+## Dove sono iollustrate le funzioni svolte da GGeditor
+
 Le funzioni di GGeditor sono state illustrate in questa documentazione: https://ggeditor.readthedocs.io a cura di *Yeh Hsin Yuan*.
 
 In lingua italiana le funzioni di GGeditor sono sono descritte in questa documentazione: https://googledocs.readthedocs.io a cura di *Ciro Spataro*.
