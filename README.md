@@ -4,7 +4,7 @@ Questo repository contiene il codice sorgente dello script di **GGeditor**.
 
 ## Chi ha creato lo script GGeditor?
 
-Lo script GGditor è stato creato da *Yeh Hsin Yuan*
+Lo script **GGditor** è stato creato da *Yeh Hsin Yuan*
 
 ## Che cosa è GGeditor?
 
